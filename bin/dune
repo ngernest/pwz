@@ -1,0 +1,4 @@
+(executable
+ (public_name pwz)
+ (name main)
+ (libraries pwz))
