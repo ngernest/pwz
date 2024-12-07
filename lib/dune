@@ -1,0 +1,8 @@
+(library
+ (name pwz))
+
+(env
+ (dev
+  (flags
+   (:standard -g -w "-26-27-32-33-34-39"))))
+   
